@@ -7,6 +7,12 @@ extract insights which can be used for decision making. For this project, we foc
 revolve around how different parts of the market and the economy reacted to the pandemic and how
 we can potentially predict market movement using machine learning methods.
 
+The files are as follows:
+1. Part 1 - Data Description & Manipulation
+2. Part 2 - Statistical Analysis
+3. Part 3 - Machine Learning
+4. Part 4 - Final Presentation of Findings
+
 Data can be found here:
 1. [COVID-19 data from John Hopkins University](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
 2. [2019-2024 US Stock Market Data](https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data)
